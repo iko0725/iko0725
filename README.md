@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p>🍌 Please feel free to contact me! 🍌</p>
 <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
-<img align="right" src="https://github.com/iko0725/iko0725/blob/main/debug.jpeg" width="200"/>
+<img align="right" src="https://github.com/iko0725/iko0725/blob/main/debug.jpeg" width="400"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on AI and Robot.</li>
