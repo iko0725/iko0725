@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/meikowu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meikowu" height="30" width="40" /></a>
 
+[![Twitter Badge](https://img.shields.io/badge/-Pranjal_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/meikowu)](https://twitter.com/meikowu)  
+[![Linkedin Badge](https://img.shields.io/badge/-Pranjal_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mr-guptaji//)](https://www.linkedin.com/in/mr-guptaji/) 
+[![Gmail Badge](https://img.shields.io/badge/-zhanxinwu@link.cuhk.edu.cn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhanxinwu@link.cuhk.edu.cn)](mailto:zhanxinwu@link.cuhk.edu.cn)
+
 
 <p>🍌 Please feel free to contact me! 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
