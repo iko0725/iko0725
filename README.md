@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Pranjal_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mr-guptaji//)](https://www.linkedin.com/in/mr-guptaji/)  -->
 
 <p>🍌 Please feel free to contact me! 🍌</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
+<img align="right" src="https://github.com/iko0725/iko0725/blob/main/debug.jpeg" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on AI and Robot.</li>
