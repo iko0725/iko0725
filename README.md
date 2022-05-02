@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 </details> -->
 
 <li> Computer Graphics — Aprill 1, 2022</a></li>
-<li> Why I Unit Test My Sass - Mixins — January 31, 2022</a></li>
-<li> Why I Unit Test My Sass - Functions — January 10, 2022</a></li>
-<li> My Scrappy Way of Getting Things Done — December 17, 2021</a></li>
-<li> Web Assembly, Automation and Cooking With Noonies Nominee Stanley Lim — November 06, 2021</a></li>
+<li> Robot Social Navigation (Semantic Segmentation) - CMU RISS — February 31, 2022</a></li>
+<li> Industrial Non-intrusive Load Monitoring - CUHKSZ Energy Internet Lab — January 10, 2022</a></li>
+<li> Online Platform Development for Video Editing — May 17, 2021</a></li>
+<li> Database and Website Design for Master’s Programs in the US — May 06, 2021</a></li>
     
 
 <p><a target="_blank" href="https://iko0725.github.io/">Read More</a></p>
