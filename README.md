@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 <p>🍌 Please feel free to contact me! 🍌</p>
 <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
-<img align="right" src="https://github.com/iko0725/iko0725/blob/main/debug.jpeg" width="500"/>
+<img align="right" src="https://github.com/iko0725/iko0725/blob/main/debug.jpeg" width="300"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on AI and Robot.</li>
 <li>🧐 Learning about <strong>Computer Vision</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on Github.</li>
 <!-- <li>📝 I regulary write articles on my blog</a>.</li>-->
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+<li>💬 Ping me about <strong>robot, path planninng, and perception</strong>.</li>
 <!--<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>-->
 <li>🎉 Fun Fact: I love LOL and EDG is the best one!</li>
 </ul>
