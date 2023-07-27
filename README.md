@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <li>🧐 Learning about <strong>Task and Motion Planning</strong>.</li>
 <li>👨‍💻 Most of my projects are available on Github.</li>
 <!-- <li>📝 I regulary write articles on my blog</a>.</li>-->
-<li>💬 Ping me about <strong>robot, tasks and motion planninng, and perception</strong>.</li>
+<li>💬 Ping me about <strong>robot, tasks and motion planning, and perception</strong>.</li>
 <!--<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>-->
 <li>🎉 Fun Fact: I love LOL and EDG is the best one!</li>
 </ul>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <li><a target="_blank" href="https://blog.stanleylim.me/the-browser-in-the-browser-(bitb)-attack---lies,-deceit,-and-css">The Browser in the Browser (BITB) Attack - Lies, Deceit, and CSS — March 30, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/why-i-unit-test-my-sass---mixins">Why I Unit Test My Sass - Mixins — January 31, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/why-i-unit-test-my-sass---functions">Why I Unit Test My Sass - Functions — January 10, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/my-scrappy-way-of-getting-things-done">My Scrappy Way of Getting Things Done — December 17, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/web-assembly,-automation-and-cooking-with-noonies-nominee-stanley-lim">Web Assembly, Automation and Cooking With Noonies Nominee Stanley Lim — November 06, 2021</a></li>
 </details> -->
 
-<li> Task and Motion Planning with Large Language Models for Room re-arrangement — Feb 1, 2023</a></li>
+<li> Task and Motion Planning with Large Language Models for Room Tidying — Feb 1, 2023</a></li>
 <li> Master the Game of Gobang from sketch — Feb 1, 2023</a></li>
 <li> Sim-to-Real Transfer for Robot Navigation — Aug 1, 2022</a></li>
 <li> Search Real-world Image for Sketches — Sep 1, 2022</a></li>
