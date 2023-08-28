@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <li>🧐 Learning about <strong>Task and Motion Planning</strong>.</li>
 <li>👨‍💻 Most of my projects are available on Github.</li>
 <!-- <li>📝 I regulary write articles on my blog</a>.</li>-->
-<li>💬 Ping me about <strong>robot, tasks and motion planning, and perception</strong>.</li>
+<li>💬 Ping me about <strong>robot navigation, tasks and motion planning, and perception</strong>.</li>
 <!--<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>-->
 <li>🎉 Fun Fact: I love LOL and EDG is the best one!</li>
 </ul>
