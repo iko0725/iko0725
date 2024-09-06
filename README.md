@@ -17,38 +17,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Hey 👋, I'm <a href="https://iko0725.github.io/">Meiko WU</a></h2>
-<p>I'm currently a MComp at <strong><a href="https://www.cuhk.edu.cn/en"> NUS </a></strong>.</p>
+<h2>Hey 👋, I'm <a href="https://iko0725.github.io/">Zhanxin WU</a></h2>
+<p>I'm currently a PhD student <strong><a href="https://www.cornell.edu/"> Cornell University </a></strong>.</p>
 <!-- <p><a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
 
 
 <a href="https://twitter.com/meikowu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meikowu" height="30" width="40" /></a> -->
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Pranjal_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/meikowu)](https://twitter.com/meikowu) [![Ins Badge](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://twitter.com/meikowu)](https://twitter.com/meikowu) [![Gmail Badge](https://img.shields.io/badge/-zhanxinwu@link.cuhk.edu.cn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhanxinwu@link.cuhk.edu.cn)](mailto:zhanxinwu@link.cuhk.edu.cn)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Pranjal_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/meikowu)](https://twitter.com/meikowu) [![Ins Badge](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://twitter.com/meikowu)](https://twitter.com/meikowu) [![Gmail Badge](https://img.shields.io/badge/-zhanxinwu@link.cuhk.edu.cn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhanxinwu@link.cuhk.edu.cn)](mailto:zhanxinwu@link.cuhk.edu.cn) [![Ins Badge](https://img.shields.io/badge/-Instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/meikoikoiko)](https://www.instagram.com/meikoikoiko) 
  -->
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/meikowu)](https://twitter.com/meikowu)  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhanxinwu@u.nus.edu)](mailto:zhanxinwu@u.nus.edu)  [![Ins Badge](https://img.shields.io/badge/-Instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/meikoikoiko)](https://www.instagram.com/meikoikoiko) 
-
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhanxinwu@u.nus.edu)](mailto:zw754@cornell.edu)
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Pranjal_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mr-guptaji//)](https://www.linkedin.com/in/mr-guptaji/)  -->
 
 <p>🍌 Please feel free to contact me! 🍌</p>
 <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
-<img align="right" src="https://github.com/iko0725/iko0725/blob/main/debug.jpeg" width="300"/>
+<img align="right" src="https://github.com/iko0725/iko0725/blob/main/debug.jpeg" width="180"/>
 <h3>⚡️ A Few Quick Facts</h3>
 <ul>
-<li>🔭 I’m currently working on AI and Robot.</li>
-<li>🧐 Learning about <strong>Task and Motion Planning</strong>.</li>
-<li>👨‍💻 Most of my projects are available on Github.</li>
+<li>🔭 I’m working on Robotics.</li>
+ 
+<!-- <li>🧐 Learning about <strong>Task and Motion Planning</strong>.</li> -->
+<!-- <li>👨‍💻 Most of my projects are available on Github.</li> -->
 <!-- <li>📝 I regulary write articles on my blog</a>.</li>-->
-<li>💬 Ping me about <strong>robot navigation, tasks and motion planning, and perception</strong>.</li>
+<!-- <li>💬 Ping me about <strong>robot navigation, tasks and motion planning, and perception</strong>.</li> -->
 <!--<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>-->
-<li>🎉 Fun Fact: I love LOL and EDG is the best one!</li>
+<!-- <li>🎉 Fun Fact: I love LOL and EDG is the best one!</li> -->
 </ul>
-<h2>✒️ Recent Posts</h2>
+<!-- <h2>✒️ Recent Posts</h2> -->
 <!-- <details>
     <summary>Explore</summary>
     <li><a target="_blank" href="https://blog.stanleylim.me/the-browser-in-the-browser-(bitb)-attack---lies,-deceit,-and-css">The Browser in the Browser (BITB) Attack - Lies, Deceit, and CSS — March 30, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/why-i-unit-test-my-sass---mixins">Why I Unit Test My Sass - Mixins — January 31, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/why-i-unit-test-my-sass---functions">Why I Unit Test My Sass - Functions — January 10, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/my-scrappy-way-of-getting-things-done">My Scrappy Way of Getting Things Done — December 17, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/web-assembly,-automation-and-cooking-with-noonies-nominee-stanley-lim">Web Assembly, Automation and Cooking With Noonies Nominee Stanley Lim — November 06, 2021</a></li>
 </details> -->
 
+<!-- 
 <li> Task and Motion Planning with Large Language Models for Room Tidying — Feb 1, 2023</a></li>
 <li> Master the Game of Gobang from sketch — Feb 1, 2023</a></li>
 <li> Sim-to-Real Transfer for Robot Navigation — Aug 1, 2022</a></li>
@@ -59,9 +60,9 @@ Here are some ideas to get you started:
 <li> Industrial Non-intrusive Load Monitoring - CUHKSZ Energy Internet Lab — January 10, 2022</a></li>
 <li> Online Platform Development for Video Editing — May 17, 2021</a></li>
 <li> Database and Website Design for Master’s Programs in the US — May 06, 2021</a></li>
-    
+-->
 
-<p><a target="_blank" href="https://iko0725.github.io/">Read More</a></p>
+<p><a target="_blank" href="https://zhanxinwu.com/">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 </p>
